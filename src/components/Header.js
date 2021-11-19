@@ -11,9 +11,7 @@ const Header = () => (
       </a>
       <h1>
         <strong>AQ events</strong>, A hallmark of
-        <br />
-         class and royalty.
-        <br />
+        class and royalty.
         Great at event decor and food catering.
       </h1>
     </div>
