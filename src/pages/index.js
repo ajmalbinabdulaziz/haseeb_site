@@ -19,10 +19,9 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              AQ events is here to sort out your last minute hassles
-              and ward off any disasters from your big day!
-              <br />
-              Book us now and you'll be a lifelong client.
+              Event planning, design and production within 
+              time limits. Working with clients to identify their needs 
+              and ensure customer satisfaction.
             </h2>
           </header>
           <p>
