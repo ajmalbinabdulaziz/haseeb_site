@@ -37,7 +37,7 @@ const HomeIndex = () => {
           </p>
           <ul className="actions">
             <li>
-              <a href="#" className="button">
+              <a href="https://www.justdial.com/Alappuzha/AQ-Events-Wedding-Planner-Near-Substation-Alleppey/0477PX477-X477-191125163048-H6R6_BZDET" target="_blank" className="button">
                 Learn More
               </a>
             </li>
@@ -61,9 +61,7 @@ const HomeIndex = () => {
         <section id="three">
           <h2>Get In Touch</h2>
           <p>
-            Accumsan pellentesque commodo blandit enim arcu non at amet id arcu
-            magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem
-            vulputate lorem neque lorem ipsum dolor.
+            Please scroll to the top for the social media icons, contact details are listed below. 
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
@@ -117,7 +115,7 @@ const HomeIndex = () => {
                   <h3 className="icon fa-mobile">
                     <span className="label">Phone</span>
                   </h3>
-                  +91-9496592075
+                  +91-9995045599 <br /> +91-9995203399
                 </li>
                 <li>
                   <h3 className="icon fa-envelope-o">

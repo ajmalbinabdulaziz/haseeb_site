@@ -15,7 +15,7 @@ const Footer = () => (
           </a>
         </li>
         <li>
-          <a href="https://wwwfacebook.com/AQ-events-and-wedding-planner-227192304868351" target="_blank" className="icon fa-facebook">
+          <a href="https://www.facebook.com/227192304868351" target="_blank" className="icon fa-facebook">
             <span className="label">Facebook</span>
           </a>
         </li>
