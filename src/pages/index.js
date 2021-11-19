@@ -19,18 +19,21 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              Ipsum lorem dolor aliquam ante commodo
+              AQ events is here to sort out your last minute hassles
+              and ward off any disasters from your big day!
               <br />
-              magna sed accumsan arcu neque.
+              Book us now and you'll be a lifelong client.
             </h2>
           </header>
           <p>
-            Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc
-            nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae
-            lobortis tortor primis integer massa adipiscing id nisi accumsan
-            pellentesque commodo blandit enim arcu non at amet id arcu magna.
-            Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate
-            lorem neque cubilia.
+            We listen to what you want and deliver on what we promise!
+            Yes, we care and no, we won't ever compromise on the quality
+            we deliver.
+            We offer ravishing decors for all your event needs. We don't
+            mind if it's an adult's rung party or a themed birthday for 
+            your precious angels, a big fat wedding or a simple get together, 
+            a beaming bride's bridal shower or a sleepy baby's baby shower, 
+            our only target is a happy customer with raving reviews.
           </p>
           <ul className="actions">
             <li>
@@ -104,23 +107,23 @@ const HomeIndex = () => {
                   <h3 className="icon fa-home">
                     <span className="label">Address</span>
                   </h3>
-                  1234 Somewhere Rd.
+                  Punnapra south, near KSEB power station
                   <br />
-                  Nashville, TN 00000
+                  Alleppey, Kerala
                   <br />
-                  United States
+                  India
                 </li>
                 <li>
                   <h3 className="icon fa-mobile">
                     <span className="label">Phone</span>
                   </h3>
-                  000-000-0000
+                  +91-9496592075
                 </li>
                 <li>
                   <h3 className="icon fa-envelope-o">
                     <span className="label">Email</span>
                   </h3>
-                  <a href="#">hello@untitled.tld</a>
+                  <a href="mailto: aqeventplanner@gmail.com">aqeventplanner@gmail.com</a>
                 </li>
               </ul>
             </div>

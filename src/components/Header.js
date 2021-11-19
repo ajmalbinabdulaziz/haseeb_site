@@ -1,7 +1,7 @@
 import React from 'react'
-
 import Footer from './Footer'
 import logo from '../assets/images/logo.jpg'
+
 
 const Header = () => (
   <header id="header">
@@ -10,11 +10,11 @@ const Header = () => (
         <img src={logo} alt="" />
       </a>
       <h1>
-        <strong>I am Strata</strong>, a super simple
+        <strong>AQ events</strong>, A hallmark of 
         <br />
-        responsive site template freebie
+        class and royalty.
         <br />
-        crafted by <a href="http://html5up.net">HTML5 UP</a>.
+        Great at event decor and food catering
       </h1>
     </div>
     <Footer />

@@ -5,31 +5,28 @@ const Footer = () => (
     <div className="inner">
       <ul className="icons">
         <li>
-          <a href="#" className="icon fa-twitter">
-            <span className="label">Twitter</span>
+          <a href="https://wa.me/message/JQAZZLJZXQ3WJ1" target="_blank" className="icon fa-whatsapp">
+            <span className="label">Whatsapp</span>
           </a>
         </li>
         <li>
-          <a href="#" className="icon fa-github">
-            <span className="label">Github</span>
+          <a href="https://www.instagram.com/aq_events_planner?r=nametag" target="_blank" className="icon fa-instagram">
+            <span className="label">Instagram</span>
           </a>
         </li>
         <li>
-          <a href="#" className="icon fa-dribbble">
-            <span className="label">Dribbble</span>
+          <a href="https://wwwfacebook.com/AQ-events-and-wedding-planner-227192304868351" target="_blank" className="icon fa-facebook">
+            <span className="label">Facebook</span>
           </a>
         </li>
         <li>
-          <a href="#" className="icon fa-envelope-o">
+          <a href="mailto: aqeventplanner@gmail.com" target="_blank" className="icon fa-envelope-o">
             <span className="label">Email</span>
           </a>
         </li>
       </ul>
       <ul className="copyright">
-        <li>&copy; Gatsby Starter Strata</li>
-        <li>
-          Design: <a href="http://html5up.net">HTML5 UP</a>
-        </li>
+        <li>&copy;AQevents</li>
       </ul>
     </div>
   </div>
