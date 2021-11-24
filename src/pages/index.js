@@ -120,7 +120,7 @@ const HomeIndex = () => {
                   <h3 className="icon fa-envelope-o">
                     <span className="label">Email</span>
                   </h3>
-                  <a href="mailto: aqeventplanner@gmail.com">aqeventplanner@gmail.com</a>
+                  <a href="mailto: aqevents007@gmail.com">aqevents007@gmail.com</a>
                 </li>
               </ul>
             </div>
