@@ -10,9 +10,10 @@ const Header = () => (
         <img src={logo} alt="" />
       </a>
       <h1>
-        <strong>AQ events</strong>, A hallmark of
+        <strong>AQ events, A hallmark of
         class and royalty.
         Great at event decor and food catering.
+        </strong>
       </h1>
     </div>
     <Footer />
